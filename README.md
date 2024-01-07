@@ -1,10 +1,10 @@
-<h3 align="left">Hi 🙋🏽‍♂️! I'm Abdelbasset, A Software engineer from Algeria 🇩🇿</h3>
+<h3 align="left">Hey! I'm Abdelbasset, A Software engineer from Algeria 🇩🇿</h3>
 
 ###
 
 <br clear="both">
 
-<img align="left" height="150" src="https://preview.redd.it/3hbs6tigvq391.jpg?width=640&crop=smart&auto=webp&s=2e0621f22d873f5b29f22ae0e7fc050b67309ed8"  />
+<img align="left" height="150" src="https://preview.redd.it/gk43kzigvq391.png?width=500&format=png&auto=webp&s=7be3a71b6464b0cd39ddd978c4f064e308b3cb07"  />
 
 ###
 
@@ -50,6 +50,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chacehy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="192" src="https://i.pinimg.com/564x/85/95/cd/8595cdd5af00cdac149d861ba9e8fcce.jpg"  />
 </div>
 
 ###
